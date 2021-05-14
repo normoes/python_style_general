@@ -1,0 +1,6 @@
+_templates_suffix: .jinja
+_skip_if_exists:
+  - CHANGELOG.md
+  - README.md
+project_name:
+  default: <project_name>
